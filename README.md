@@ -40,7 +40,7 @@ const developer = {
 
 ### 🚀 Active Process
 
-**Current Project:** [`finance-tracker`](https://github.com/Gylvaris/finance-tracker)
+**Current Project:** [`finance-manager`](https://github.com/Gylvaris/finance-manager)
 > A backend-heavy application focused on robust data handling and financial logic.
 
 - 🛠️ **The Challenge:** Implementing type-safe API routes and secure authentication.
