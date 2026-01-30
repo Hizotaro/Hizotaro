@@ -52,7 +52,7 @@ const developer = {
 ### 🛰️ Traffic Analytics
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@Gylvaris?theme=gelbooru" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@Gylvaris?theme=gelbooru" alt="Visitor Count" />
   <br />
   <sub>Total system access requests processed.</sub>
 </p>
