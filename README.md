@@ -1,20 +1,17 @@
 # ⚡ system.init()
 
-```typescript
+```javascript
 const developer = {
   name: "Antoni Gylvaris Bella",
   age: 21,
-  specialization: "Backend & Systems",
-  current_stack: ["Linux", "Node.js", "TypeScript", "Next.js"],
-  databases: ["PostgreSQL"], 
+  specialization: " ",
+  current_stack: ["Linux"],
   interests: [
-    "API Design", 
-    "Type-Safe Architecture", 
-    "Performance Optimization",
+    "Technology",
     "Games",
-    "Anime"
+    "Anime",
   ],
-  currently_learning: ["System Design", "Advanced TypeScript"],
+  currently_learning: ["HTML", "CSS" "JavaScript"],
 };
 ```
 
@@ -40,12 +37,12 @@ const developer = {
 
 ### 🚀 Active Process
 
-**Current Project:** [`finance-manager`](https://github.com/Gylvaris/finance-manager)
-> A backend-heavy application focused on robust data handling and financial logic.
+**Current Project:** -
+> -
 
-- 🛠️ **The Challenge:** Implementing type-safe API routes and secure authentication.
-- 📦 **Tech Stack:** Node.js, Next.js, TypeScript.
-- 🚧 **Status:** Active development / Refactoring logic.
+- 🛠️ **The Challenge:** -
+- 📦 **Tech Stack:** -
+- 🚧 **Status:** -
 
 ---
 
