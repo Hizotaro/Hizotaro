@@ -2,7 +2,7 @@
 
 ```javascript
 const developer = {
-  name: "Antoni Gylvaris Bella",
+  name: "Hizotaro",
   age: 21,
   specialization: " ",
   current_stack: ["Linux"],
