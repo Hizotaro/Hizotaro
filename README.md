@@ -20,8 +20,8 @@ const developer = {
 ### 📊 System Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Gylvaris&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gylvaris&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="175" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Hizotaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Hizotaro&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="175" />
 </p>
 
 ### 🛠️ Tech Stack & Tools
